@@ -1,5 +1,3 @@
-# This program is written for Arbisoft as part of the technical assessment for a job
-
 import requests
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
